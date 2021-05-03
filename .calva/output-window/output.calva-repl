@@ -1,0 +1,4 @@
+one= [{:id 1, :name Kettle, :type :appliance, :stock-count 50, :unit-size :small, :price 100.4, :status :active} {:id 2, :name Couch, :type :furniture, :stock-count 20, :unit-size :large, :price 4599.0, :status :active} {:id 3, :name Desk, :type :furniture, :stock-count 40, :unit-size :medium, :price 1299.99, :status :active} {:id 4, :name Toaster, :type :appliance, :stock-count 100, :unit-size :small, :price 499.99, :status :active} {:id 5, :name Bed, :type :furniture, :stock-count 10, :unit-size :large, :status :active, :price 1200, :special? true}]
+nil
+clj꞉threading-macros.core꞉> 
+; nREPL Connection was closed
